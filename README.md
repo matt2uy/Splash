@@ -1,4 +1,4 @@
 Splash
 ======
 
-Calculates your shooting percentage on your Pebble watch
+Calculate your shooting percentage on your Pebble watch
